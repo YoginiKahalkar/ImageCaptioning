@@ -1,0 +1,18 @@
+{
+    "_comment": "Map each image filename to a list of human-written reference captions. Replace these placeholder entries with real captions from Flickr8k or MS COCO once you have downloaded the images and their annotations. Do NOT treat these sample entries as ground truth for reporting model quality.",
+    "sample_dog.jpg": [
+        "A brown dog is running through a grassy field.",
+        "A dog runs on green grass in an open field.",
+        "A playful dog sprinting across a lawn."
+    ],
+    "sample_street.jpg": [
+        "A busy city street with cars and pedestrians.",
+        "People walking on a crowded urban sidewalk.",
+        "A street scene with traffic and buildings in the background."
+    ],
+    "sample_beach.jpg": [
+        "A sandy beach with waves crashing on the shore.",
+        "A calm ocean beach under a blue sky.",
+        "Waves rolling onto a sunlit beach."
+    ]
+}

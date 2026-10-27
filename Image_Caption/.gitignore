@@ -1,0 +1,63 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model cache (downloaded weights)
+models/
+*.bin
+*.safetensors
+*.onnx
+
+# Hugging Face cache
+.cache/
+
+# Uploaded images (never commit)
+uploads/
+temp/
+
+# Output artefacts
+outputs/*.csv
+outputs/*.txt
+outputs/*.json
+outputs/*.png
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
